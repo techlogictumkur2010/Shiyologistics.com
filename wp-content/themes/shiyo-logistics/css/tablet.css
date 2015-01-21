@@ -1,0 +1,218 @@
+/* CSS Document */
+
+
+
+
+.hide-on-mobile {
+	display: none;
+}
+.header .logo {
+	float: none;
+	width: 250px;
+	height: auto;
+	margin: auto;
+	padding-top: 20px;
+}
+
+.nav-menu {
+	float: none!important;
+}
+.main-navigation li a {
+	font-size: 16px;
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+/* For portrait layouts only */
+
+
+.header-top #searchinput {
+	width: 100px;
+}
+.hp-buttons ul li {
+	width: 100%;
+	margin-right: 0%;
+	margin-bottom: 10px;
+}
+.wrapthis {
+	margin: 0 auto;
+	max-width: 90%;
+}
+.landing-splash .headline {
+	font-size: 45px;
+}
+.middle-light .rcol.column {
+	float: right;
+	width: 35%;
+	margin-top: 00px;
+}
+.middle-light .mcol.column .section-img {
+	display: none;
+}
+.middle-light .mcol .section-text {
+	float: right;
+	width: 80%;
+	padding-bottom: 40px;
+}
+.hp-buttons ul li, .hp-buttons ul li.green.last {
+	float: none;
+	width: 100%;
+	margin-left: 0%;
+	margin-bottom: 15px;
+}
+.hp-news {
+	display: none;
+}
+.hp-buckets .bucket {
+	float: none;
+	width: 100%;
+	margin-right: 0%;
+	margin-bottom: 80px;
+}
+
+#tabs {
+	width: 31%;
+}
+#panels {
+
+width: 70%;}
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+/* For landscape layouts only */
+
+.hp-buttons ul li {
+	width: 32.6%;
+	margin-left: 1%;
+}
+.hp-buttons ul li.first {
+	margin-left: 0px;
+}
+.wrapthis {
+	width: 90%;
+}
+.header-top ul {
+	float: none;
+	padding-top: 4px;
+	margin-top: 6px!important;
+}
+.header-top .social {
+}
+.header-top #searchinput {
+	width: 90px;
+}
+.menu-toggle {
+	width: 100%;
+	padding: 10px 0px;
+	margin-top: 20px;
+}
+.mobile-menu .nav-menu {
+	float: left;
+}
+.mobile-menu .nav-menu a {
+	font-size: 15px;
+}
+.mobile-menu .menu-main-menu-container {
+}
+.mobile-menu .nav-menu .sub-menu {
+}
+.mobile-menu .nav-menu a + .sub-menu a {
+	font-size: 12px;
+}
+.hp-buttons {
+	margin-bottom: 30px;
+}
+.hp-billboard {
+	background-position: 130px 20px;
+	height: 500px;
+}
+.hp-billboard .headline img {
+	width: 70%;
+}
+.page-heading .heading-right {
+	width: 38%;
+}
+/* */
+.landing-splash {
+	height: 460px;
+}
+.landing-splash .headline .section-title {
+	font-size: 25px;
+	color: #D44827;
+	margin-bottom: 5px;
+}
+.landing-splash .headline {
+	padding-top: 60px;
+	font-size: 30px;
+	color: #FFF;
+	font-weight: 900;
+	width: 85%;
+}
+.landing-splash a.more-link {
+	background-color: #006B3F;
+	font-size: 18px;
+	font-weight: 700;
+	padding: 15px 0px;
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+.section-heading {
+	text-align: center;
+}
+.middle-light .lcol.column {
+	text-align: center;
+}
+.column {
+	float: none!important;
+	width: 90%!important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	margin-bottom: 40px;
+	margin-top: auto!important;
+}
+/* CAREERS */
+.careers .subpages {
+	display: none;
+}
+.landing-splash .headline {
+	padding-top: 60px;
+	font-size: 50px;
+	color: #FFF;
+	font-weight: 900;
+	width: 85%;
+	margin-top: 0px;
+	margin-bottom: 00px;
+	-webkit-transition: all .3s ease;
+}
+.careers .landing-splash .wrapthis {
+	padding-top: 20px;
+}
+.careers.middle-dark #gallery li {
+	float: left;
+	margin-right: 0px;
+	margin-bottom: 20px;
+	width: 100%;
+}
+/* */
+.footer-nav, .footer-logos {
+	display: none;
+}
+footer#colophon {
+	background-image: none;
+	background-color: #141716;
+	margin-top: 0px!important;
+	border-top: 0px solid #454545;
+}
+.footer-copy {
+	margin-top: 30px;
+}
+
+
+#tabs {
+	width: 35%;
+}
+#panels {
+
+width: 65%;}
+
+}

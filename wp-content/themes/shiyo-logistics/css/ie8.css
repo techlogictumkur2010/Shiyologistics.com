@@ -1,0 +1,59 @@
+/* CSS Document */
+.wrapthis {
+	width: 1000px;
+}
+.main-navigation ul.nav-menu {
+	border: none;
+}
+
+
+
+.menu-toggle {
+	display: none!important;
+}
+.header {
+	background: white;
+}
+.menu-main-menu-container {
+	float: right;
+	position: relative;
+	top: 25px;
+}
+.main-navigation li {
+	margin-right: 30px;
+}
+.main-navigation li a {
+	line-height: normal;
+	color: #000;
+	font-size: 16px;
+	text-transform: none;
+	white-space: nowrap;
+	padding: 0px 7px;
+	margin: 0px;
+	font-weight: bold;
+	font-size: 16px;
+}
+.home .bucket2-3.last img {
+	width: 100%!important;
+}
+#panels img {
+	width: 200px!important;
+}
+.careers .headline {
+	background: black;
+}
+.careers .twitter .icon {
+	background: none;
+}
+.header-top ul li.parent > ul {
+	top: 13px;
+	padding-top: 0px;
+}
+.hp-buckets .bucket2-3 img {
+	max-width: 600px;
+}
+
+
+.main-navigation li a {
+
+padding: 10px 10px; }
